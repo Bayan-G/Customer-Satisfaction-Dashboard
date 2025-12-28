@@ -19,4 +19,4 @@ to see the table, please refer to [View Google Sheets table](https://docs.google
 
 ### Dashboard
 The interactive dashboard was built using Looker Studio and connected directly to the Google Sheets response table.
-To view the dashboard, please refer to [View Dashboard](https://lookerstudio.google.com/reporting/a226c764-9b80-41ec-a22d-144bdfb25603).
+To view the dashboard, please refer to [View Dashboard](https://lookerstudio.google.com/reporting/a226c764-9b80-41ec-a22d-144bdfb25603)
