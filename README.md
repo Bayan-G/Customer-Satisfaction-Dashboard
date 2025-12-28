@@ -11,12 +11,15 @@ Customer feedback was collected using Google Forms, the Customer Satisfaction Su
 - How satisfied were you with the helpfulness of our staff?
 - How likely are you to recommend us to a friend or colleague?
 - Please share any additional feedback you have.
+
 to see the Survey, please refer to [View Survey](https://docs.google.com/forms/d/e/1FAIpQLSd_RUUPwiX5KwgqoLQEjFWIk7cl02trqQ1HWZZfe6g7eFN41A/viewform)
 
 ### Data Source
 All survey responses are automatically stored in a Google Sheets table connected directly to Looker Studio as the primary data source.
+
 to see the table, please refer to [View Google Sheets table](https://docs.google.com/spreadsheets/d/1NPckOZG92M__faGJQtOQCw4SZ-BdiX0rDBRgAiAzeuw/edit?usp=sharing)
 
 ### Dashboard
 The interactive dashboard was built using Looker Studio and connected directly to the Google Sheets response table.
+
 To view the dashboard, please refer to [View Dashboard](https://lookerstudio.google.com/reporting/a226c764-9b80-41ec-a22d-144bdfb25603)
